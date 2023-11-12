@@ -1,0 +1,28 @@
+.navbar {
+    background-color: black;
+    color: white;
+    padding: 16px;
+    display: flex;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 999;
+    border-bottom: 3px solid #666666;
+}
+
+.logo-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.logo {
+    font-size: 28px;
+    font-family: 'Noto Sans Display', Helvetica, Arial, sans-serif;
+    font-weight: 600;
+    font-style: italic;
+    text-transform: uppercase;
+    margin: 0 auto;
+}

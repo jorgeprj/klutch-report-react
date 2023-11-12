@@ -1,0 +1,120 @@
+.last-posts-title{
+    margin-left: 40px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.last-post {
+    display: flex;
+    margin-bottom: 20px;
+    margin-left: 40px;
+}
+
+.last-post-image {
+    max-width: 250px;
+    margin-right: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.last-post-image img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+.last-post-content {
+    flex-grow: 1;
+}
+
+.last-post-team{
+    font-size: 14px;
+    font-weight: bold;
+    text-transform: lowercase;
+}
+
+.last-post-title {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 2px;
+    cursor: pointer;
+}
+
+.last-post-title:hover {
+    text-decoration: underline;
+}
+
+.last-post-verification-icon {
+    display: inline-block;
+    margin-left: 5px;
+    font-size: 16px;
+    color: black;
+}
+
+.last-post-verification-icon:hover::after {
+    content: "Oficial";
+    font-size: 10px;
+    font-weight: 600;
+    background: black;
+    color: white;
+    padding: 10px;
+    border-radius: 4px;
+    margin-left: 10px;
+}
+
+.last-post-description {
+    font-size: 16px;
+    max-width: 600px;
+    margin-bottom: 2px;
+}
+
+.last-post-source {
+    font-size: 14px;
+    color: rgb(0, 0, 0, 0.4);
+    font-weight: 500;
+}
+
+/* Team Colors */
+
+.last-post-team.bulls {
+	color: #CE1141;
+}
+
+.last-post-team.lakers {
+	color: #FDB927;
+}
+
+.last-post-team.rockets {
+	color: #CE1141;
+}
+
+.last-post-team.heat {
+	color: #CE1141;
+}
+
+.last-post-team.knicks {
+	color: #F58426;
+}
+
+.last-post-team.pacers {
+	color: #FDBB30;
+}
+
+.last-post-team.mavs {
+	color: #00538C;
+}
+
+.last-post-team.blazers {
+	color: #E03A3E;
+}
+
+.last-post-team.suns {
+	color: #1D1160;
+}
+
+.last-post-team.magic {
+	color: #0077C0;
+}

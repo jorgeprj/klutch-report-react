@@ -1,0 +1,64 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "THT and Jonathan Isaac to Lakers",
+            "description":"Los Angeles Lakers trade for Jonathan Isaac and Talen Horton-Tucker into an agreement to exchange Gbae Vincent, Rui Hachimura and a 2024 1st-Round Pick",
+            "source":"Klutch Report",
+            "oficial": false,
+            "main": false,
+            "team": "lakers",
+            "img": "./src/assets/posts/post23_1.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Timberwolves trade for Tobias Harris",
+            "description":"76ers and Timberwolves enter into an agreement to exchange Rudy Gobert for Tobias Harris",
+            "source":"Klutch Report",
+            "oficial": false,
+            "main": false,
+            "team": "timberwolves",
+            "img": "./src/assets/posts/post22_1.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Damian Lillard goes to Bucks",
+            "description":"Damian Lillard is finally traded to the Bucks in a 3-teams trade",
+            "source":"Bleacher Report",
+            "oficial": true,
+            "main": true,
+            "team": "heat",
+            "img": "./src/assets/posts/post1_1.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Chicago Bulls trade for Austin Reaves",
+            "description":"Los Angeles Lakers get Mitchell Robinson plus two 2024 1st-round picks",
+            "source":"Klutch Report",
+            "oficial": false,
+            "main": true,
+            "team": "bulls",
+            "img": "./src/assets/posts/post11_1.jpg"
+        },
+        {
+            "id": 5,
+            "title": "DeRozan and Vucevic to Knicks",
+            "description":"The Knicks are sending R.J. Barret, M. Robinson, Fournier and three 1st-round picks to the Bulls as part of the trade",
+            "source":"Klutch Report",
+            "oficial": false,
+            "main": true,
+            "team": "knicks",
+            "img": "./src/assets/posts/post12_1.jpg"
+        },
+        {
+            "id": 6,
+            "title": "Zach LaVine is a Maverick",
+            "description":"Dallas send 5 players and 2027 1st round pick to Chicago Bulls for LaVine",
+            "source":"Klutch Report",
+            "oficial": false,
+            "main": true,
+            "team": "mavericks",
+            "img": "./src/assets/posts/post2_2.jpeg"
+        }
+]
+}
